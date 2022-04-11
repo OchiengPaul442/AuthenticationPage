@@ -3,6 +3,8 @@ With animation as you move from one page to another.
 Fully customizable
 Responsive
 
+DEMO https://ochiengpaul442.github.io/
+
 LOGIN PAGE
 ![Screenshot (19)](https://user-images.githubusercontent.com/97807374/162841405-38e43e03-4069-4d02-b3fa-59ffe236d90a.png)
 
